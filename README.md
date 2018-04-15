@@ -13,6 +13,6 @@ for example: tools.vbs, x86.exe, 1.bat, 2.bat, secury.exe, sound.mp3 etc.
 
 I'v installed malware and antivirus softwares and none of them detect the .bar, .vbs and .mp3 files.
 
-I saw this code (credit !!!!)
+I saw this code (Great appreciation for the writer of the code !!!!)
 https://github.com/YuriyZaletskyy/VirusCapturer
 and recreate new project .
